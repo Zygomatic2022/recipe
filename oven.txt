@@ -3,3 +3,6 @@ carrot
 tomatoe
 champiogn
 chicken
+fish
+appel
+mushroom
