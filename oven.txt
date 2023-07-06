@@ -1,8 +1,8 @@
 patatoe
 carrot
 tomatoe
-champiogn
+pompoen
 chicken
 fish
-appel
+peer
 mushroom
